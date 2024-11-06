@@ -11,8 +11,9 @@ A simple and elegant calculator built using Flutter. This app allows users to pe
 - **Negative Numbers**: Toggle between positive and negative numbers using the "+/-" button.
 
 ## Screenshots
+![Screenshot 2024-11-07 at 2 05 47 AM](https://github.com/user-attachments/assets/47c1fa0d-3018-48e0-9c76-ac7416baef16)
 
-(Insert screenshot of the calculator UI here)
+
 
 ## Project Structure
 
